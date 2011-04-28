@@ -1,0 +1,15 @@
+2011-04-19 22:49:11,967 FATAL [main] aplicacionLogger (Log4jTest.java:16) - FATAL - Aplicacion
+2011-04-19 22:49:11,967 ERROR [main] aplicacionLogger (Log4jTest.java:18) - ERROR - Aplicacion
+2011-04-19 22:49:11,968  WARN [main] aplicacionLogger (Log4jTest.java:20) - WARN - Aplicacion
+2011-04-19 22:49:11,968  INFO [main] aplicacionLogger (Log4jTest.java:22) - INFO - Aplicacion
+2011-04-19 22:49:11,968 DEBUG [main] aplicacionLogger (Log4jTest.java:24) - DEBUG - Aplicacion
+2011-04-19 22:52:41,630 FATAL [main] aplicacionLogger (Log4jTest.java:16) - FATAL - Aplicacion
+2011-04-19 22:52:41,631 ERROR [main] aplicacionLogger (Log4jTest.java:18) - ERROR - Aplicacion
+2011-04-19 22:52:41,631  WARN [main] aplicacionLogger (Log4jTest.java:20) - WARN - Aplicacion
+2011-04-19 22:52:41,631  INFO [main] aplicacionLogger (Log4jTest.java:22) - INFO - Aplicacion
+2011-04-19 22:52:41,631 DEBUG [main] aplicacionLogger (Log4jTest.java:24) - DEBUG - Aplicacion
+2011-04-19 22:55:08,804 FATAL [main] aplicacionLogger (Log4jTest.java:16) - FATAL - Aplicacion
+2011-04-19 22:55:08,805 ERROR [main] aplicacionLogger (Log4jTest.java:18) - ERROR - Aplicacion
+2011-04-19 22:55:08,805  WARN [main] aplicacionLogger (Log4jTest.java:20) - WARN - Aplicacion
+2011-04-19 22:55:08,805  INFO [main] aplicacionLogger (Log4jTest.java:22) - INFO - Aplicacion
+2011-04-19 22:55:08,805 DEBUG [main] aplicacionLogger (Log4jTest.java:24) - DEBUG - Aplicacion

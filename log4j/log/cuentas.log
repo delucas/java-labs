@@ -1,0 +1,4 @@
+2011-04-19 22:55:08,801 FATAL [main] cuentasLogger (Log4jTest.java:15) - FATAL - Cuentas
+2011-04-19 22:55:08,805 ERROR [main] cuentasLogger (Log4jTest.java:17) - ERROR - Cuentas
+2011-04-19 22:55:08,805  WARN [main] cuentasLogger (Log4jTest.java:19) - WARN - Cuentas
+2011-04-19 22:55:08,805  INFO [main] cuentasLogger (Log4jTest.java:21) - INFO - Cuentas
